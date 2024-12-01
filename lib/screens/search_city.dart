@@ -101,7 +101,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [  SizedBox(height: 40),
             Container(
-              height: 105,
+              height: 115,
               decoration: BoxDecoration(
                 color: Colors.blue.shade700.withOpacity(0.2),
                 borderRadius: BorderRadius.circular(10),
@@ -116,15 +116,9 @@ class _WeatherScreenState extends State<WeatherScreen> {
                     ),
                   ),
                   SizedBox(height: 10),
-                  Container(
-                    height: 30,
-                    width: 100,
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.blueAccent.shade700),
-                      borderRadius: BorderRadius.circular(10),
-
-                    ),
-                    child: Center(
+                  Center(
+                    child: OutlinedButton(
+                      onPressed: _searchCity,
                       child: Text(
                         "Search",
                         style: GoogleFonts.roboto(
