@@ -1,16 +1,10 @@
-# weather_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/user-attachments/assets/515de1be-fe79-4931-9b97-a9c097d89d0c)
+![2](https://github.com/user-attachments/assets/49c7f222-435e-418b-86cb-6f0a03b39f5a)
+![3](https://github.com/user-attachments/assets/55ca6b68-af64-4113-bd7b-9c272ad87dc0)
+![4](https://github.com/user-attachments/assets/d01db5bc-0e0f-4b77-b27e-8a334211d230)
+![5](https://github.com/user-attachments/assets/6b03edad-3744-4398-8c39-53d25c49ffce)
+![6](https://github.com/user-attachments/assets/fdc97dd4-332f-4599-bfbb-0ea317bb1abb)
+![7](https://github.com/user-attachments/assets/5f979916-2aed-4651-ad41-53f02815ef3e)
+![8](https://github.com/user-attachments/assets/c0a1d7cc-1868-43d5-809b-d5446d82558d)
+![9](https://github.com/user-attachments/assets/84aa2dfc-2b8c-4289-aea1-3e0128e0072c)
+![10](https://github.com/user-attachments/assets/9f851efd-8a31-46e8-9327-81820ce1535c)
