@@ -133,8 +133,8 @@ class _WeatherScreenState extends State<WeatherScreen> {
             SizedBox(height: 40),
             Text(
               "Current Weather:",
-              style:
-              GoogleFonts.roboto(fontSize: 18, fontWeight: FontWeight.bold),
+            style:
+            GoogleFonts.roboto(fontSize: 18, fontWeight: FontWeight.bold),
             ),
             SizedBox(height: 20),
             Container(
